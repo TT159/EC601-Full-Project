@@ -4,10 +4,7 @@ import tweepy
 import json
 
 # Twitter API credentials
-consumer_key = "KOlNFUrSqwL8J12axz87zt7nJ"
-consumer_secret = "8O8i504wy6M6pi8OA0LdvqGjJlqp97qPUMSk1NLo2N9CMGfvs1"
-access_key = "1441839170465386505-ymY2TI1HIH0RCpaXugCcdoi7cF8yd4"
-access_secret = "mp34DPsleTD347EYWrKKTy7dUnoo5WDlz9lSWSsc72Vyc"
+
 # consumer_key = "Yours"
 # consumer_secret = "Yours"
 # access_key = "Yours"

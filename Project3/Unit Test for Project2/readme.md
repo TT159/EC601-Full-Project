@@ -9,7 +9,7 @@ We try to test that what if the user enter two Twitter IDs together at one time 
 We expect that the program to report an error because all searched tweets will be sorted in a JSON file, and we only allow one Twitter ID to be searched at a time for ease of differentiation.  
 
 ### Second example
-In test_wrong_TwitterIDs.py, we try to test that what if the user enter the wrong Twitter ID which is not exist or the user input nothing.</br>
+In test_wrong_TwitterIDs.py, we try to test that what if the user enter the wrong Twitter ID which is not exist.</br>
 We ecpect that the program to report an error that it can not found the ID.
 
 
